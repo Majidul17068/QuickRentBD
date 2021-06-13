@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QuickRentBD">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/QuickRentBD.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
